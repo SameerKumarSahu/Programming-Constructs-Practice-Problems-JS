@@ -1,0 +1,1 @@
+console.log("Single Digit Random Number is : " +(Math.floor( Math.random() * 10 ) ));
